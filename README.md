@@ -39,3 +39,5 @@
 ✔️npm run build
 
 ✔️npx ionic capacitor run android 
+
+✔️ npx cap copy 
