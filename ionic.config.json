@@ -1,5 +1,7 @@
 {
   "name": "ionic_app_exercise_wk9",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
